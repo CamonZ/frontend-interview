@@ -1,0 +1,13 @@
+@import "bootstrap";
+@import "bootstrap-compass";
+
+
+
+$icon-font-path: "../fonts/bootstrap/";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body { height: 100%; }
